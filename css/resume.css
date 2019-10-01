@@ -67,6 +67,26 @@ p.lead {
   margin-left: 0;
 }
 
+.titleBlockCerts {
+  position: relative;
+  width: 500px;
+  height: 40px;
+  margin-left: 175px;
+  color: #414141;
+}
+
+.certIcon {
+  float: left;
+  max-width: 40px;
+  max-height: 40px;
+}
+
+.certIconFEAC {
+  float: right;
+  max-width: 100px;
+  max-height: 100px;
+}
+
 .social-icons a {
   display: inline-block;
   height: 3.5rem;
